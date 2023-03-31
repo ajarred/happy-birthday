@@ -40,3 +40,9 @@ body {
     margin: 0 auto;
   }
 
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkblue;
+    font-size: 18px;
+  }
+
