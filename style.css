@@ -34,3 +34,8 @@ body {
     background-color: #e8565a;
   }
   
+  img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+  }
