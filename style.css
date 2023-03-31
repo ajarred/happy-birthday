@@ -1,5 +1,5 @@
 body {
-    background-color: #f5e6e8;
+    background-color: #1c2331;
     font-family: sans-serif;
     text-align: center;
   }
@@ -8,7 +8,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #f2f0eb;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
@@ -39,3 +39,4 @@ body {
     display: block;
     margin: 0 auto;
   }
+
